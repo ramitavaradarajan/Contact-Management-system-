@@ -17,3 +17,7 @@ Import/Export: Import contacts from or export contacts to a CSV file.
 Requirements:
 Python 3.8 or higher
 Dependencies listed in requirements.txt
+
+FOR FURTHER DETAILS:
+https://www.linkedin.com/in/ramita-v-ai-ml-a748562a7/
+ramita.v2022ai-ml@sece.ac.in
